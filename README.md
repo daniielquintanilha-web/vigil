@@ -31,7 +31,10 @@ O Vigil é um app pequeno que fica no canto da tela. Você aperta um atalho e el
   <img src="assets/pt/vigil-sentinel.gif" width="424" alt="O Sentinel se abrindo: o círculo com o GIF vira cápsula com a música e depois o painel">
 </p>
 
-- **Coloque o GIF que quiser:** um personagem, seu pet, um meme. Ele fica no canto, num círculo ou numa cápsula com a música que está tocando.
+- **Coloque o GIF que quiser:** um personagem, seu pet, um meme. Vale também vídeo curto (MP4) e WebP: é só arrastar da pasta, ou direto do navegador, para cima do Sentinel.
+- **No formato que combinar:** círculo, pílula, retângulo ou quadrado, e você ajusta o enquadramento e o zoom.
+- **Mascote:** o GIF solto e maior, sem moldura, com a música num balão ao lado.
+- **Sua coleção:** os GIFs ficam guardados e você troca com o botão direito. Em jogo de tela cheia, ele pode parar para não pesar.
 - **Passe o mouse** e o círculo se abre em cápsula, com o nome da música.
 - **Clique ou aperte Alt+W** e ele mesmo vira o painel: música, volume, microfone, captura.
 - **O contorno é o tempo da música:** a borda vai se preenchendo enquanto ela toca.
@@ -42,10 +45,11 @@ O Vigil é um app pequeno que fica no canto da tela. Você aperta um atalho e el
 - **Alt+Q, o launcher:** busque e abra qualquer app, fixe os favoritos e use comandos rápidos (`yt`, `g`, `w`… para pesquisar no YouTube, no Google, na Wikipédia).
 - **Alt+W, o painel:** tempo da música, volume do PC e de cada app, microfone, captura e gravação de tela.
 - **Alt+M, o microfone:** muta e desmuta, com um aviso na tela (até dentro do jogo).
+- **Combina com o Discord:** com o launcher aberto, o "apertar para falar" continua funcionando.
 - **Avisos por cima do jogo:** quando o volume ou o microfone mudam, aparece um aviso rápido, onde o Windows não mostra nada.
 - **Funciona com** Spotify, YouTube Music, o navegador e qualquer player que apareça nos controles de mídia do Windows.
 - **Sai da frente nos vídeos:** num filme ou série em tela cheia, ele some sozinho.
-- **Do seu jeito:** modo claro ou escuro, cor de destaque (fixa ou tirada da capa da música), três tamanhos, a Ilha no topo da tela como alternativa e atalhos que você pode trocar.
+- **Do seu jeito:** modo claro ou escuro, transparência, cor de destaque (qualquer cor da roda ou tirada da capa da música), três tamanhos, a Ilha no topo da tela como alternativa e atalhos que você pode trocar, até por uma tecla só (como F2).
 - **5 idiomas:** português, English, español, italiano, українська.
 - **Atualiza sozinho.**
 
@@ -72,7 +76,7 @@ O Windows mostra esse aviso para programas novos que ainda não têm uma assinat
 ## É seguro?
 
 - **Não coleta nada.** Sem conta, sem login, sem anúncios, sem rastreamento.
-- **Só usa a internet para procurar atualizações**, aqui neste repositório. As buscas (YouTube, Google…) só abrem o seu navegador quando você pede.
+- **Só usa a internet para procurar atualizações**, aqui neste repositório, e para baixar a imagem que você arrasta do navegador para o Sentinel. As buscas (YouTube, Google…) só abrem o seu navegador quando você pede.
 - **O teclado só é lido enquanto o launcher está aberto**, para você digitar a busca. Fechou, parou.
 - **O microfone não é gravado nem escutado.** O botão só liga e desliga o microfone do Windows.
 - **Não mexe no jogo.** É só uma janela por cima; não altera arquivos nem a memória de nenhum jogo.
