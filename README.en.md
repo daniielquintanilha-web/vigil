@@ -31,10 +31,7 @@ Vigil is a small app that sits in the corner of your screen. Press a shortcut an
   <img src="assets/en/vigil-sentinel.gif" width="424" alt="The Sentinel opening: the circle with the GIF becomes a capsule with the song, then the panel">
 </p>
 
-- **Put any GIF you like:** a character, your pet, a meme. Short videos (MP4) and WebP work too: just drag one from a folder, or straight from your browser, onto the Sentinel.
-- **In the shape you like:** circle, pill, rectangle or square, and you set the framing and zoom.
-- **Mascot:** the GIF on its own and bigger, no frame, with the song in a bubble next to it.
-- **Your collection:** your GIFs are kept and you switch with a right-click. In fullscreen games it can pause so it costs nothing.
+- **Put any GIF you like:** a character, your pet, a meme. It sits in the corner, in a circle or in a capsule with the song that's playing.
 - **Hover it** and the circle opens into a capsule with the song name.
 - **Click it or press Alt+W** and it turns into the panel itself: music, volume, microphone, capture.
 - **The outline is the song's progress:** the border fills up as the song plays.
@@ -45,11 +42,10 @@ Vigil is a small app that sits in the corner of your screen. Press a shortcut an
 - **Alt+Q, the launcher:** find and open any app, pin your favorites and use quick commands (`yt`, `g`, `w`… to search YouTube, Google, Wikipedia).
 - **Alt+W, the panel:** track time, PC and per-app volume, microphone, screenshot and screen recording.
 - **Alt+M, the microphone:** mute and unmute, with an on-screen notice (even in games).
-- **Plays nice with Discord:** with the launcher open, push-to-talk keeps working.
 - **Notices on top of the game:** when the volume or the microphone changes, a quick notice shows up where Windows shows nothing.
 - **Works with** Spotify, YouTube Music, your browser and any player that appears in Windows media controls.
 - **Steps aside for videos:** during a fullscreen movie or show, it hides by itself.
-- **Your way:** light or dark mode, transparency, accent color (any color from the wheel or taken from the album cover), three sizes, the Island at the top of the screen as an alternative, and shortcuts you can change, even to a single key (like F2).
+- **Your way:** light or dark mode, accent color (fixed or taken from the album cover), three sizes, the Island at the top of the screen as an alternative, and shortcuts you can change.
 - **5 languages:** português, English, español, italiano, українська.
 - **Updates itself.**
 
@@ -76,7 +72,7 @@ Windows shows this warning for new programs that don't have a paid digital signa
 ## Is it safe?
 
 - **It collects nothing.** No account, no login, no ads, no tracking.
-- **It only goes online to check for updates**, here in this repository, and to download an image you drag from your browser onto the Sentinel. Searches (YouTube, Google…) only open your browser when you ask.
+- **It only goes online to check for updates**, here in this repository. Searches (YouTube, Google…) only open your browser when you ask.
 - **The keyboard is only read while the launcher is open**, so you can type your search. Close it and that's it.
 - **The microphone is never recorded or listened to.** The button only turns the Windows microphone on and off.
 - **It doesn't touch your games.** It's just a window on top; it doesn't change any game's files or memory.
