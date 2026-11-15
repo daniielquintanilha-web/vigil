@@ -87,3 +87,9 @@ Windows muestra este aviso con programas nuevos que todavía no tienen una firma
 ## Requisitos
 
 Windows 10 (versión 2004 o posterior) o Windows 11, 64 bits.
+
+## Derechos
+
+© 2026 Daniel Quintanilha. Todos los derechos reservados.
+
+Puedes descargar y usar Vigil libremente. No está permitido copiar, modificar, descompilar, revender ni redistribuir la app (ni partes de ella) sin autorización del autor.

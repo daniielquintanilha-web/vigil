@@ -87,3 +87,9 @@ Windows shows this warning for new programs that don't have a paid digital signa
 ## Requirements
 
 Windows 10 (version 2004 or later) or Windows 11, 64-bit.
+
+## Rights
+
+© 2026 Daniel Quintanilha. All rights reserved.
+
+You are free to download and use Vigil. Copying, modifying, decompiling, reselling or redistributing the app (or any part of it) without the author's permission is not allowed.
